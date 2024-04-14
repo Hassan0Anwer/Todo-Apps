@@ -1,0 +1,22 @@
+body{
+    background-color:rgb(56, 161, 161) ;
+}
+
+#centre{
+    text-align: center;
+
+}
+h1{
+    size: 70px;
+    color: rgb(9, 21, 122);
+}
+button{
+    width: 65px;
+    height: 35px;
+    border-radius: 5px;
+}
+
+input{
+
+    padding: 10px;
+}
